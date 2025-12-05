@@ -4,5 +4,6 @@ Welcome to my SolidWorks engineering portfolio. This collection includes CAD mod
 
 **Michael Pickett Jr**  
 mwpickettjr@gmail.com
+
 Applied Physics, University of Maryland  
 *SolidWorks | CAD | Mechanical Design*
